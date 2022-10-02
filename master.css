@@ -1,0 +1,35 @@
+/* Cascading stylesheet for the website */
+
+/* Text inside these asterisks and slashes are comments for human */
+
+  a {
+  color: blue;  /* set the text color to blue here */
+    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+  }
+
+  a:hover {
+  color:red  /* set the text color to red here */
+    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+  }
+
+  body {
+  background-color: beigne /* set the background color here */
+color: black    /* set the text color to black here */
+font-family: Arial, Helvetica, sans-serif;/* set the font here */
+text-align: center; /* set the text alignment here */
+}
+
+footer{
+  margin-top: 2ren
+  margin-bottom: 2ren;
+}
+
+h1{
+  margin-bottom: 0.5ren;
+  margin-top: 3ren;
+}
+
+h2{
+  color: #075AAB; /* set the text color of to #075AAB here */
+
+}
